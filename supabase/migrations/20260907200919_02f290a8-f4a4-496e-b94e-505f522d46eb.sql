@@ -1,0 +1,1 @@
+ALTER TABLE public.demos ADD COLUMN IF NOT EXISTS prompt text NOT NULL DEFAULT '';

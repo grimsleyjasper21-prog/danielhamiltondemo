@@ -1,0 +1,1 @@
+DELETE FROM public.demos WHERE slug IN ('bella-wellness','aurora-spa');
